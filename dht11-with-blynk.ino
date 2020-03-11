@@ -7,7 +7,7 @@
 DHT dht(dht_dpin, DHTTYPE); 
 BlynkTimer timer;
 char auth[] = "auth-token";
-char ssid[] = "ssid";
+char ssid[] = "ss-id";
 char pass[] = "pass";
 float t;                                   // Declare the variables 
 float h;
